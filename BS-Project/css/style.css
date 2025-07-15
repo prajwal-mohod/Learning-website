@@ -1,0 +1,64 @@
+.bg-theme {
+	background-color:#99a5cc;
+}
+.theme-color {
+	#99a5cc;
+}
+nav a {
+	color: #fff;
+}
+
+#hero .jumbotron {
+	height: 80vh;
+	background-image: linear-gradient(#99a5cc, #031657);
+}
+#hero img {
+	width: 36%;
+}
+#course-text button {
+	padding: 5px 15px;
+	margin: 8px;
+	border-radius: 20px;
+	border: 1px solid black;
+	font-size: 19px;
+	transition: background-color 0.5s;
+}
+#course-text button:hover {
+	background-color: #319135;
+}
+.card-body h6 {
+	font-weight: bold;
+}
+#main-head {
+	font-family: "Winky Rough", sans-serif;
+	letter-spacing: 3px;
+}
+hr {
+	border: 1px solid #031657;
+	width: 35%;
+	margin-bottom: 50px;
+}
+#sub-head{
+	font-family: "Roboto Condensed", sans-serif;
+}
+#about-us p {
+	text-align: justify;
+	font-size: 20px;
+}
+#about-us ul {
+	list-style: none;
+}
+#about-us ul li {
+	line-height: 33px;
+}
+#about-us i {
+	color: #e6d057;
+	margin-right: 10px;
+}
+.list-group li {
+	font-size: 15px;
+	font-weight: bold;
+}
+#popular-sec .card-footer {
+	color: #031657;
+}
